@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+}
+.item {
+  padding: 20px;
+  margin: 5px;
+}
+.icon-text {
+  margin: 2em;
+  font-weight: 800;
+  color: black;
+}
